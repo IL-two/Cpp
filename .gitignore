@@ -1,0 +1,16 @@
+
+*.pdb
+*.idb
+*.obj
+*.tlog
+*.log
+*.user
+*.filters
+*.vcxproj
+*.sln
+*.txt
+*.ilk
+*.exe
+*.ipch
+*.db
+Lessons/Task 13/13.1. University/.vs/Practice12/v16/.suo
